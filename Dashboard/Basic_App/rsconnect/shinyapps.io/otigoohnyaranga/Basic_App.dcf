@@ -1,0 +1,12 @@
+name: Basic_App
+title: Basic_App
+username:
+account: otigoohnyaranga
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 357514
+bundleId: 1420864
+url: https://otigoohnyaranga.shinyapps.io/Basic_App/
+when: 1528606374.47562
+asMultiple: FALSE
+asStatic: FALSE
